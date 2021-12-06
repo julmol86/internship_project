@@ -48,7 +48,6 @@ nodemon index.ts
 + bootstrap (note! Import should be before all other css -files inside project)
 + react router
 + axios
-+ schema fields correct
 + backend
 + DB MySQL
 + new folder structure for frontend
