@@ -6,9 +6,13 @@ Download node_modules for both backend and frontend: npm install
 React:
 
 npm install react-hook-form @hookform/resolvers yup axios
+
 npm install react-bootstrap bootstrap@5.1.3
+
 npm install @types/react-router-dom@5 react-router-dom@5
+
 npm i react-bootstrap-icons
+
 
 run project:
 npm start run
@@ -18,13 +22,21 @@ npm start run
 Node.js Koa:
 
 npm init -y
+
 npm install koa
+
 npm install @types/koa
+
 npm install -g nodemon
+
 npm install @koa/router
+
 npm install @koa/cors
+
 npm install koa-body
+
 npm install promise-mysql
+
 
 run project:
 nodemon index.ts
@@ -41,5 +53,5 @@ nodemon index.ts
 + DB MySQL
 + new folder structure for frontend
 + new pages and bootstrap added 
-+ simple reg list http://localhost:3000/admin/registrationlist
++ simple registration list 
 
