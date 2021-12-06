@@ -13,14 +13,6 @@ npm i react-bootstrap-icons
 run project:
 npm start run
 
----------------
-
-MySQL:
-
-https://dev.mysql.com/downloads/installer/ (community)
-
-download bigger file (about 500 Mb)
-click Execute button on the missing requirements view!
 --------------
 
 Node.js Koa:
