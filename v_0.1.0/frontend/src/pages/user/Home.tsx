@@ -22,16 +22,6 @@ const Home = () => {
         resolver: yupResolver(homeSchema),
     });
 
-  /*   useEffect(() => {
-        // fetch data from backend
-        const fetchLeagues = async () => {
-            const response = await axios.get('http://localhost:8090/leagues')
-            setLeagues(response.data)
-        }
-        // call function
-        fetchLeagues();
-    }, []); */
-
     // function that submits the form data and sends it to backend
     const onSubmitFunc = async (data: HomeType) => {
       console.log({ data });
