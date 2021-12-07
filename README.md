@@ -1,4 +1,4 @@
-# internship_project
+# internship project
 
 Note! Node_modules are NOT submited. 
 Download node_modules for both backend and frontend: npm install
