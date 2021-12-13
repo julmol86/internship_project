@@ -1,0 +1,18 @@
+{
+  "navbartop.contact": "Yhteystiedot",
+  "navbartop.login": "Kirjaudu sisään",
+  "navbar.main": "Etusivu",
+  "navbar.next": "Tulevat tapahtumat",
+  "navbar.results": "Tulokset",
+
+  "user.home.submit": "",
+  "user.home.form.title": "Kilpailuun ilmoittautuminen",
+  "user.home.form.fname": "Etunimi",
+  "user.home.form.lname": "Sukunimi",
+  "user.home.form.email": "Sähköpostiosoite",
+  "user.home.form.league": "Sarja",
+  "user.home.form.choose": "Valitse sarja",
+  "user.home.form.button": "Lähetä",
+
+  "user.registrationsuccess": "Lomake lähetetty. Kiitos ilmoittautumisesta!"
+}

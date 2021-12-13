@@ -1,0 +1,18 @@
+{
+  "navbartop.contact": "Contact",
+  "navbartop.login": "Log in",
+  "navbar.main": "Main",
+  "navbar.next": "Comming events",
+  "navbar.results": "Results",
+  
+
+  "user.home.form.title": "Register for the event",
+  "user.home.form.fname": "First name",
+  "user.home.form.lname": "Last name",
+  "user.home.form.email": "E-mail",
+  "user.home.form.league": "Category",
+  "user.home.form.choose": "Choose category",
+  "user.home.form.button": "Submit",
+
+  "user.registrationsuccess": "The form was submitted. Thank you for registration!"
+}
