@@ -1,0 +1,30 @@
+{
+  "navbartop.contact": "Yhteystiedot",
+  "navbartop.login": "Kirjaudu sisään",
+  "navbartop.loggedin.message": "Olet kirjautunut sisään",
+
+  "navbar.main": "Etusivu",
+  "navbar.next": "Tulevat tapahtumat",
+  "navbar.results": "Tulokset",
+
+  "pagenotfound": "Sivua ei löydy",
+
+  "user.home.submit": "",
+  "user.home.form.title": "Kilpailuun ilmoittautuminen",
+  "user.home.form.fname": "Etunimi",
+  "user.home.form.lname": "Sukunimi",
+  "user.home.form.email": "Sähköpostiosoite",
+  "user.home.form.league": "Sarja",
+  "user.home.form.choose": "Valitse sarja",
+  "user.home.form.button": "Lähetä",
+
+  "user.registrationsuccess": "Lomake lähetetty. Kiitos ilmoittautumisesta!",
+
+  "admin.signin.title": "Kirjaudu sisään",
+  "admin.signin.login": "Käyttäjätunnus",
+  "admin.signin.password": "Salasana",
+  "admin.signin.button": "Kirjaudu",
+
+  "admin.alert.success": "Kirjautuminen onnistui",
+  "admin.alert.reject": "Kirjautuminen epäonnistui, tarkista tunnus ja salasana"
+}

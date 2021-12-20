@@ -1,0 +1,30 @@
+{
+  "navbartop.contact": "Contact",
+  "navbartop.login": "Log in",
+  "navbartop.loggedin.message": "You are logged in",
+
+  "navbar.main": "Main",
+  "navbar.next": "Comming events",
+  "navbar.results": "Results",
+
+  "pagenotfound": "Page not found",
+  
+
+  "user.home.form.title": "Register for the event",
+  "user.home.form.fname": "First name",
+  "user.home.form.lname": "Last name",
+  "user.home.form.email": "E-mail",
+  "user.home.form.league": "Category",
+  "user.home.form.choose": "Choose category",
+  "user.home.form.button": "Submit",
+
+  "user.registrationsuccess": "The form was submitted. Thank you for registration!",
+
+  "admin.signin.title": "Sign in",
+  "admin.signin.login": "Username",
+  "admin.signin.password": "Password",
+  "admin.signin.button": "Log in",
+
+  "admin.alert.success": "Login successful",
+  "admin.alert.reject": "Login failed. Check username and password"
+}
