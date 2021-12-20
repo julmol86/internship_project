@@ -5,13 +5,13 @@ Download node_modules for both backend and frontend: npm install
 
 React:
 
-npm install react-hook-form @hookform/resolvers yup axios
-npm install react-bootstrap bootstrap@5.1.3
-npm install @types/react-router-dom@5 react-router-dom@5
-npm i react-bootstrap-icons
-npm i react-i18next @types/react-i18next i18next --save
-npm install i18next-http-backend i18next-browser-languagedetector --save
-
+* npm install react-hook-form @hookform/resolvers yup axios
+* npm install react-bootstrap bootstrap@5.1.3
+* npm install @types/react-router-dom@5 react-router-dom@5
+* npm i react-bootstrap-icons
+* npm i react-i18next @types/react-i18next i18next --save
+* npm install i18next-http-backend i18next-browser-languagedetector --save
+* npm install --save react-toastify
 run project:
 npm start run
 
@@ -19,14 +19,14 @@ npm start run
 
 Node.js Koa:
 
-npm init -y
-npm install koa
-npm install @types/koa
-npm install -g nodemon
-npm install @koa/router
-npm install @koa/cors
-npm install koa-body
-npm install promise-mysql
+* npm init -y
+* npm install koa
+* npm install @types/koa
+* npm install -g nodemon
+* npm install @koa/router
+* npm install @koa/cors
+* npm install koa-body
+* npm install promise-mysql
 
 
 run project:
@@ -52,3 +52,9 @@ nodemon index.ts
 + localization with language switch button
 + thank -you page after registration
 
+# Version 0.3.0
+
++ login link visible to admin only
++ login prototype, hard-coded user and password
++ react router fixed + upgraded to version 6
++ remember language when switch links and after submit button 
