@@ -186,7 +186,7 @@ MySQL
 
 # Work log
 
-Slides in Finnish could be found in Working_dairy folder
+Slides in Finnish could be found in Working_diary folder
 
 ## Version 0.1.0 / 1.1.2021 - 6.12.2021
 
