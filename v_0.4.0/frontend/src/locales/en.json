@@ -1,0 +1,108 @@
+{
+  "navbartop.contact": "Contact",
+  "navbartop.login": "Log in",
+  "navbartop.loggedin.message": "You are logged in",
+  "navbartop.loggedin.signout": "Log out",
+
+  "navbar.main": "Main",
+  "navbar.next": "Comming events",
+  "navbar.results": "Results",
+
+  "pagenotfound": "Page not found",
+  
+
+  "user.home.form.title": "Register for the event",
+  "user.home.form.fname": "First name",
+  "user.home.form.lname": "Last name",
+  "user.home.form.birthDate": "Date of birth",
+  "user.home.form.sportsClub": "Sports Club",
+  "user.home.form.phoneNumber": "Phone number",
+  "user.home.form.address": "Address",
+  "user.home.form.city": "City",
+  "user.home.form.postalCode": "Postal code",
+  "user.home.form.country": "Country",
+  "user.home.form.notVisibleToPublic": "I don't want my name shown on public registration list",
+  "user.home.form.acceptTerms": "I accept terms",
+  "user.home.form.email": "E-mail",
+  "user.home.form.category": "Category",
+  "user.home.form.league": "Category",
+  "user.home.form.choose": "Choose category",
+  "user.home.form.priceValidTill": "Price is valid till",
+  "user.home.form.button": "Submit",
+
+  "user.home.event.city": "Place",
+  "user.home.event.registrationDueDate": "Registration due date",
+  "user.home.event.infoText": "More info",
+  "user.home.event.register": "Register",
+
+  "user.registrationsuccess": "The form was submitted. Thank you for registration!",
+  "user.home.event.registrationlist": "Start list",
+
+  "organization.homepage.button.registrationlist": "Start list",
+
+  "admin.signin.title": "Sign in",
+  "admin.signin.login": "Username",
+  "admin.signin.password": "Password",
+  "admin.signin.button": "Log in",
+
+  "admin.alert.success": "Login successful",
+  "admin.alert.reject": "Login failed. Check username and password",
+  "admin.logout.success": "Logged out successfully",
+
+  "admin.homepage.button.createorganization": "Create new user",
+  "admin.homepage.button.createevent": "Create new event",
+  "admin.homepage.button.registrationlist": "Registration list",
+  "admin.homepage.button.userlist": "Organizations",
+  "admin.homepage.button.eventlist": "Events",
+
+  "admin.button.homepage": "Return to home page",
+
+  "admin.createorganization.form.title": "Create a new user",
+  "admin.createorganization.form.name": "Company's name",
+  "admin.createorganization.form.email": "E-mail",
+  "admin.createorganization.form.regnumber": "Business ID",
+  "admin.createorganization.form.phone": "Phone number",
+  "admin.createorganization.form.address": "Address",
+  "admin.createorganization.form.bic": "BIC",
+  "admin.createorganization.form.iban": "IBAN",
+  "admin.createorganization.form.button": "Save",
+
+  "admin.create.alert.success": "Created successfully",
+  "admin.create.alert.reject": "Failed",
+
+  "admin.createevent.form.title": "Create new event",
+  "admin.createevent.form.event.organizationId": "Organization ID",
+  "admin.createevent.form.event.chooseOrganization": "Choose organization",
+  "admin.createevent.form.event.namefi": "Event name in Finnish",
+  "admin.createevent.form.event.nameen": "Event name in English",
+  "admin.createevent.form.event.city": "City",
+  "admin.createevent.form.event.address": "Address",
+  "admin.createevent.form.event.startdate": "Start date",
+  "admin.createevent.form.event.enddate": "End date",
+  "admin.createevent.form.event.registrationduedate": "Registration due date",
+  "admin.createevent.form.event.managedbyorganization": "Paiment managed by organization",
+  "admin.createevent.form.event.infotext": "Info",
+
+  "admin.createevent.form.event.categoryNumber": "Number of events",
+  "admin.createevent.form.category.header" : "Event",
+
+  "admin.createevent.form.category.namefi": "Catgory name in Finnish",
+  "admin.createevent.form.category.nameen": "Catgory name in English",
+  "admin.createevent.form.category.price1": "Price 1",
+  "admin.createevent.form.category.price2": "Price 2",
+  "admin.createevent.form.category.price3": "Price 3",
+  "admin.createevent.form.category.price4": "Price 4",
+  "admin.createevent.form.category.price5": "Price 5",
+
+  "admin.createevent.form.category.duedate1": "Price 1 is valid till",
+  "admin.createevent.form.category.duedate2": "Price 2 is valid till",
+  "admin.createevent.form.category.duedate3": "Price 3 is valid till",
+  "admin.createevent.form.category.duedate4": "Price 4 is valid till",
+  "admin.createevent.form.category.duedate5": "Price 5 is valid till",
+
+  "admin.userlist.button.events": "Events",
+  
+  "admin.regeventlist.button.registrations": "Start list",
+
+  "admin.createevent.form.category.agecategory": "Age restrictions in this category"
+}

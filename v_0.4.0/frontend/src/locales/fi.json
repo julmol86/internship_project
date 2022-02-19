@@ -1,0 +1,108 @@
+{
+  "navbartop.contact": "Yhteystiedot",
+  "navbartop.login": "Kirjaudu sisään",
+  "navbartop.loggedin.message": "Olet kirjautunut sisään",
+  "navbartop.loggedin.signout": "Kirjaudu ulos",
+
+  "navbar.main": "Etusivu",
+  "navbar.next": "Tulevat tapahtumat",
+  "navbar.results": "Tulokset",
+
+  "pagenotfound": "Sivua ei löydy",
+
+  "user.home.submit": "",
+  "user.home.form.title": "Kilpailuun ilmoittautuminen",
+  "user.home.form.fname": "Etunimi",
+  "user.home.form.lname": "Sukunimi",
+  "user.home.form.birthDate": "Syntymäaika",
+  "user.home.form.sportsClub": "Seura",
+  "user.home.form.phoneNumber": "Puhelinnumero",
+  "user.home.form.address": "Osoite",
+  "user.home.form.city": "Kotikunta",
+  "user.home.form.postalCode": "Postinumero",
+  "user.home.form.country": "Maa",
+  "user.home.form.notVisibleToPublic": "En halua, että nimeni näkyy julkisessa ilmoittautumislistassa",
+  "user.home.form.acceptTerms": "Hyväksyn ehdot",
+  "user.home.form.email": "Sähköpostiosoite",
+  "user.home.form.category": "Sarja",
+  "user.home.form.league": "Sarja",
+  "user.home.form.choose": "Valitse sarja",
+  "user.home.form.priceValidTill": "Hinta voimassa asti",
+  "user.home.form.button": "Lähetä",
+
+  "user.home.event.city": "Paikka",
+  "user.home.event.registrationDueDate": "Ilmoittautuminen viimeistään",
+  "user.home.event.infoText": "Lisää tiedot",
+  "user.home.event.register": "Ilmoittaudu",
+
+  "user.registrationsuccess": "Lomake lähetetty. Kiitos ilmoittautumisesta!",
+  "user.home.event.registrationlist": "Osallistujat",
+  "organization.homepage.button.registrationlist": "Osallistujat",
+
+  "admin.signin.title": "Kirjaudu sisään",
+  "admin.signin.login": "Käyttäjätunnus",
+  "admin.signin.password": "Salasana",
+  "admin.signin.button": "Kirjaudu",
+
+  "admin.alert.success": "Kirjautuminen onnistui",
+  "admin.alert.reject": "Kirjautuminen epäonnistui, tarkista tunnus ja salasana",
+  "admin.logout.success": "Uloskirjautuminen onnistui",
+
+  "admin.homepage.button.createorganization": "Luo uusi käyttäjä",
+  "admin.homepage.button.createevent": "Luo uusi tapahtuma",
+  "admin.homepage.button.registrationlist": "Ilmoittautumislista",
+  "admin.homepage.button.userlist": "Yritykset",
+  "admin.homepage.button.eventlist": "Tapahtumat",
+
+  "admin.button.homepage": "Takaisin pääsivulle",
+
+  "admin.createorganization.form.title": "Luo uusi käyttäjä",
+  "admin.createorganization.form.name": "Yrityksen nimi",
+  "admin.createorganization.form.email": "S-posti",
+  "admin.createorganization.form.regnumber": "Y-tunnus",
+  "admin.createorganization.form.phone": "Puhelin",
+  "admin.createorganization.form.address": "Osoite",
+  "admin.createorganization.form.bic": "BIC",
+  "admin.createorganization.form.iban": "IBAN",
+  "admin.createorganization.form.button": "Tallenna",
+
+  "admin.create.alert.success": "Tiedot tallennettu",
+  "admin.create.alert.reject": "Talentaminen ei onnistui",
+  
+
+  "admin.createevent.form.title": "Luo uusi tapahtuma",
+  "admin.createevent.form.event.organizationId": "Yrityksen ID",
+  "admin.createevent.form.event.chooseOrganization": "Valitse yritys",
+  "admin.createevent.form.event.namefi": "Tapahtuman nimi",
+  "admin.createevent.form.event.nameen": "Tapahtuman nimi englanniksi",
+  "admin.createevent.form.event.city": "Kaupunki",
+  "admin.createevent.form.event.address": "Osoite",
+  "admin.createevent.form.event.startdate": "Tapahtuman alkamispäivä",
+  "admin.createevent.form.event.enddate": "Tapahtuman päättymispäivä",
+  "admin.createevent.form.event.registrationduedate": "Ilmoittautuminen viimeistään",
+  "admin.createevent.form.event.managedbyorganization": "Maksut hallitsee kilpailun järjestäjä",
+  "admin.createevent.form.event.infotext": "Lisää tiedot",
+
+  "admin.createevent.form.event.categoryNumber": "Sarjojen määrä",
+  "admin.createevent.form.category.header" : "Sarja",
+
+  "admin.createevent.form.category.namefi": "Sarjan nimi suomeksi",
+  "admin.createevent.form.category.nameen": "Sarjan nimi englanniksi",
+  "admin.createevent.form.category.price1": "Hinta 1",
+  "admin.createevent.form.category.price2": "Hinta 2",
+  "admin.createevent.form.category.price3": "Hinta 3",
+  "admin.createevent.form.category.price4": "Hinta 4",
+  "admin.createevent.form.category.price5": "Hinta 5",
+
+  "admin.createevent.form.category.duedate1": "Hinta 1 voimassa asti",
+  "admin.createevent.form.category.duedate2": "Hinta 2 voimassa asti",
+  "admin.createevent.form.category.duedate3": "Hinta 3 voimassa asti",
+  "admin.createevent.form.category.duedate4": "Hinta 4 voimassa asti",
+  "admin.createevent.form.category.duedate5": "Hinta 5 voimassa asti",
+
+  "admin.userlist.button.events": "Tapahtumat",
+
+  "admin.regeventlist.button.registrations": "Osallistujat",
+
+  "admin.createevent.form.category.agecategory": "Ikäraja sarjassa"
+}
