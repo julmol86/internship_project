@@ -6,11 +6,13 @@
 - [Configurations](#configurations)
 - [Running this App](#running-this-app)
 - [Source tree](#source-tree)
+- [Endpoints](#endpoints)
+- [Pages](#pages)
 - [Technologies](#technologies)
 - [Main features](#main-features)
 - [Work log](#work-log)
 # The goal of this project
-This application is built as internship project and to gain new knowledge in web development, to practice in creating a full stack application with UI using React and Node, making Bootstrap styles and working with MySQL database and of course to enjoy coding while doing interesting task.
+This application is built as internship project during ITC4N-training and internship at TL Timing Oy. Project is built and to gain new knowledge in web development, to practice in creating a full stack application with UI using React and Node, making Bootstrap styles and working with MySQL database and of course to enjoy coding while doing interesting task.
 
 # Purpose of this project
 Application provides information about sporting events with registration form. There is user signin page for registered users, option for creating new organizations and option to add new events. 
@@ -120,6 +122,43 @@ For sending confirmation e-mail, file "do_not_commit" should be changed, enter e
     └── UserContext.tsx       # Logic for signin
     └── utils.ts              # Functions for format date and capital letters
 ```
+# Endpoints
+Method  |Endpoint | Description
+------------- | ------------- | -------------
+POST  | /register  | data to DB table: registration
+POST  | /signin  | login-password check
+POST  | /createorganization  | data to DB table: organization
+POST  | /createevent  | data to DB table: event
+POST  | /registrationpayment  | update DB table: registration
+GET  | /event/:eventId/registrationlist  | Start list
+GET  | /organizations  | Organization's id for registration
+GET  | /organizationsall  | Organizations list
+GET  | /eventsall | Events list
+GET  | /event/:eventId/categories  | Events categories
+GET  | /alleventsandcategories  | Events with categories list
+
+# Pages
+URL  | Description
+------------- | -------------
+/  | Front page
+/events  | Template for new features
+/results  | Template for new features
+/contacts  | Template for new features
+/registrationsuccess  | Message after registration
+/event/:eventId/register  | Registration form
+/event/:eventId/registrationlist  | Start list
+/signin  | Sign in page for admin and organizators
+/admin/regeventlist  | Users and events
+/admin/event/:eventId/registrationlist  | Start list
+/admin/userslist  | Users list
+/admin/eventlist  | Events list
+/admin/homepage  | Front page
+/admin/createorganization  | Create new user form
+/admin/createevent  | Create new event form
+/organization/homepage  | Front page
+/organization/regeventlist  | All events
+/organization/event/:eventId/registrationlist  | Start list
+
 # Technologies
 ### Front-end
 React.js | TypeScript | Bootstrap
