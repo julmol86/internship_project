@@ -46,6 +46,8 @@ Download ZIP, Unpack ZIP folder to a new folder.
 
 Make sure mysql service is running.
 
+Final version is in folder v_0.4.0
+
 Directory for frontend: ./frontend
 
 Directory for backend: ./backend
