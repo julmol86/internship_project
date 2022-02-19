@@ -74,6 +74,7 @@ npm start
 
 Open http://localhost:3000 to view  in the browser
 
+For sending confirmation e-mail, file "do_not_commit" should be changed, enter e-mail and password.
 # Source tree
 ```
 .
