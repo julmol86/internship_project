@@ -90,7 +90,7 @@ For sending confirmation e-mail, file "do_not_commit" should be changed, enter e
     └── pages
         └── admin
             ├── CreateEvent.tsx           # Adding new events
-            ├── CreateOrganization.tsx    # Creatinf new users
+            ├── CreateOrganization.tsx    # Creating new users
             ├── EventList.tsx             # All events
             ├── HomePageAdmin.tsx         # Front page
             ├── RegEventList.tsx          # Organizations and events
@@ -163,7 +163,7 @@ URL  | Description
 ### Front-end
 React.js | TypeScript | Bootstrap
 ### Back-end
-Node.js | Koa.js
+Node.js | Koa.js | TypeScript 
 ### Database
 MySQL
 
