@@ -20,9 +20,9 @@ The duration of my part-time internship at TL Timing Oy is 16 weeks, and about 2
 Application provides information about sporting events with registration form. There is user signin page for registered users, option for creating new organizations and option to add new events. 
 
 # Prerequisites
-Application is developed and tested on Windows 10 operating system / Google Chrome browser.
+Application is developed and tested on Windows 10 operating system / Google Chrome browser. Visual Studio Code as source-code editor.
 
-Node.js and MySQL should be installed. 
+Node.js and MySQL and source-code editor should be installed. 
 
 ## How to install Node.js:
 https://nodejs.org/en/ 
@@ -37,6 +37,11 @@ download bigger file (about 500 Mb)
 click Execute button on the missing requirements view!
 
 Note:  MySQL  should be installed on default port 3306. (if port number is different, make sure to change it manually in the db.ts file on the backed side).
+
+## How to install VS Code:
+https://code.visualstudio.com/
+
+download
 
 # Configurations
 Create DB user manually, e.g. via MySQL Workbench:
