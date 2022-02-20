@@ -12,7 +12,7 @@
 - [Main features](#main-features)
 - [Work log](#work-log)
 # The goal of this project
-This application is built as internship project during ITC4N-training and internship at TL Timing Oy. Project is built and to gain new knowledge in web development, to practice in creating a full stack application with UI using React and Node, making Bootstrap styles and working with MySQL database and of course to enjoy coding while doing interesting task.
+This application is built as internship project during ITC4N-training and internship at TL Timing Oy. Project is built to gain new knowledge in web development, to practice in creating a full stack application with UI using React and Node, making Bootstrap styles and working with MySQL database and of course to enjoy coding while doing interesting task.
 
 # Purpose of this project
 Application provides information about sporting events with registration form. There is user signin page for registered users, option for creating new organizations and option to add new events. 
@@ -188,7 +188,7 @@ MySQL
 
 Slides in Finnish could be found in Working_diary folder
 
-## Version 0.1.0 / 1.1.2021 - 6.12.2021
+## Version 0.1.0 / 1.11.2021 - 6.12.2021
 
 + bootstrap (note! Import should be before all other css -files inside project)
 + react router
@@ -222,7 +222,7 @@ Slides in Finnish could be found in Working_diary folder
 + organization creation (backend)
 + organizator's home page template
 + different rights to admin and organizator
-+ admin creates events / categories and gives modify -rights to organization (started)
++ admin creates events / categories and gives modify -rights to organization
 + dropdown for organizations in event form
 + Registration process
 + Remember context on refresh
