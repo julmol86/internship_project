@@ -14,6 +14,8 @@
 # The goal of this project
 This application is built as internship project during ITC4N-training and internship at TL Timing Oy. Project is built to gain new knowledge in web development, to practice in creating a full stack application with UI using React and Node, making Bootstrap styles and working with MySQL database and of course to enjoy coding while doing interesting task.
 
+The duration of my part-time internship at TL Timing Oy is 16 weeks, and about 20 hours per week was spent for this project. The total amount of hours spent is about 320 working hours.
+
 # Purpose of this project
 Application provides information about sporting events with registration form. There is user signin page for registered users, option for creating new organizations and option to add new events. 
 
